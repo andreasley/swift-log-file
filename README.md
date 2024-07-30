@@ -2,8 +2,6 @@
 
 [SwiftLog](https://github.com/apple/swift-log) compatible file log handler.
 
-This currently only supports iOS.
-
 ## Example: Just logging to a file
 
 ```swift
